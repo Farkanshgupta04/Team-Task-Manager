@@ -3,7 +3,7 @@
 A full-stack web application for project and task management with role-based access control.
 
 ## 🔗 Live URL (When deployed)
-https://your-app.railway.app
+lively-charm-production-ca27.up.railway.app
 
 ## 📦 Tech Stack
 - **Frontend:** React, Vite, Tailwind CSS, React Router, Axios
